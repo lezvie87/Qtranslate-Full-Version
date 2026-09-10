@@ -240,3 +240,6 @@ This repository serves as the official landing page for QTranslate. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of QTranslate today!**
+
+---
+**Last updated:** 2026-09-10 22:52:49 UTC
